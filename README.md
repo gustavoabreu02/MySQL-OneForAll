@@ -771,15 +771,16 @@ Crie uma `QUERY` que altere o nome de algumas músicas e as ordene em ordem alfa
 
 **Critérios**
 
-- Trocar a palavra **"Amar"** no final do nome de uma música por **"Code Review"**
+- Trocar a palavra **"Bard"** do nome da música por **"QA"**
 
-- Trocar a palavra **"SUPERSTAR"** no final do nome de uma música por **"SUPERDEV"**
+- Trocar a palavra **"Amar"** do nome da música por **"Code Review"**
 
-- Trocar a palavra **"Bard"** no final do nome de uma música por **"QA"**
+- Trocar a palavra **"Pais"** do nome da música por **"Pull Requests"**
 
-- Trocar a palavra **"SOUL"** no final do nome de uma música por **"CODE"**
+- Trocar a palavra **"SOUL"** do nome da música por **"CODE"**
 
-- Trocar a palavra **"Pais"** no final do nome de uma música por **"Pull Requests"**
+- Trocar a palavra **"SUPERSTAR"** do nome da música por **"SUPERDEV"**
+
 
 <details>
   <summary><strong>➕ Informações complementares</strong></summary><br />
